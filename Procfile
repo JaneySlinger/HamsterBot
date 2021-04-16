@@ -1,1 +1,1 @@
-worker: python3 hamsterBot.py
+worker: python3 main.py

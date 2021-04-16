@@ -1,1 +1,1 @@
-web: python hamsterBot.py
+worker: python hamsterBot.py
